@@ -1,7 +1,11 @@
 {
   "User": {
     "name": {
-      "string": {}
+      "string": [
+        "Willey Silva Braz",
+        "Joana Laysa Lima Cunha",
+        "Maria Ariadna Miranda Lacerda"
+      ]
     },
     "avatarUrl": {
       "regexp": "https://i\\.pravatar\\.cc/150\\?u=[0-9]{5}"
